@@ -1,0 +1,66 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developer: Syd Lawrence
+  Site: sydlawrence.com
+  Twitter: sydlawrence
+  Location: Winchester, UK
+
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Compass-css 
+  Language: English
+  Doctype: HTML5
+  IDE: Coda, Photoshop
+
+
+
+
+              +MMMMMMMMMMMM+        
+           `sNMMMNNNNNNNNMMMNs`     
+        ``hNMMMNh--....--hNMMMNh``  
+        dNNNMMy..````````..yMMNNNd  
+        mM+.yMs :Nd````dN: sMy.+Mm  
+        mM+-sNo :Nd````dN: oNs-+Mm  
+        hmo:--.`.::````::.`.--:omh  
+        `.sdo:-`:dh----hd:`-:ods.`  
+        `.--smy::-:dddd:-::yms--.`  
+        hmmmmmmmh::////::hmmmmmmmh  
+      ..mMNN+.+mmmmddddmmmm+.+NNMm..
+      mmNNNN+ `-+NNNNNNNN+-` +NNNNmm
+      NNNNNN+`+mmmNNNNNNmmm+`+NNNNNN
+      ``dNNNmdmNmhhhhhhhhmNmdmNNNd``
+        ``hMMMmhhhhddddhhhhmMMMh``  
+        ``hMmddhdddhhhhdddhddmMh``  
+        dNo:.```/Mm````mM/```.:oNd  
+        mMMMMMMMMMm    mMMMMMMMMMm  
+
+                                    
+                               -o/-                       
+                               +oo//-                     
+                              :ooo+//:                    
+                             -ooooo///-                   
+                             /oooooo//:                   
+                            :ooooooo+//-                  
+                           -+oooooooo///-                 
+           -://////////////+oooooooooo++////////////::    
+            :+ooooooooooooooooooooooooooooooooooooo+:::-  
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-   
+                     -:+ooooooooooooooooo+:://////:--     
+                       /ooooooooooooooooo+//////:-        
+                      -ooooooooooooooooooo////-           
+                      /ooooooooo+oooooooooo//:            
+                     :ooooooo+/::/+oooooooo+//-           
+                    -oooooo/::///////+oooooo///-          
+                    /ooo+::://////:---:/+oooo//:          
+                   -o+/::///////:-      -:/+o+//-         
+                   :-:///////:-            -:/://         
+                     -////:-                 --//:        
+                       --                       -:        
